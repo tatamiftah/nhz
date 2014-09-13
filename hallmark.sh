@@ -1,3 +1,4 @@
+#!/bin/bash
 yum install java-1.7.0-openjdk java-1.7.0-openjdk-devel -y
 sudo yum groupinstall Desktop -y
 sudo yum install tigervnc-server -y
